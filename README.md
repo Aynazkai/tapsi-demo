@@ -2,8 +2,6 @@
 
 ## [App Online Link](https://tapsi-redesign.netlify.app/)
 
-## App Demo
-
 <img src="./assets/images/tapsi-preview.gif">
 
 ---
